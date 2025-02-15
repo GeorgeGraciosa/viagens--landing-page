@@ -183,7 +183,7 @@ li {
   max-width: 200px;
 }
 
-#conselhos #deco {
+#conselhos .deco {
   height: 6px;
   width: 32px;
   background-color: #568895;
